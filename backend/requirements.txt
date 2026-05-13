@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-ollama
+pydantic
+pytest
+sentence-transformers
+python-multipart
+python-dotenv
+email-validator
